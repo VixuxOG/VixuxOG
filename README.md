@@ -1,16 +1,16 @@
-## Hi there 👋
+💡 "Data is the new oil, but like oil, it's valuable only when refined properly."
 
-<!--
-**VixuxOG/VixuxOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#BACKGROUND
+🎓 Academic Excellence
 
-Here are some ideas to get you started:
+🎯 B.E. in Computer Engineering - 8.2 CGPA
+🏅 Honours in Data Science -  10 CGPA
+🌟 HSC - 96.5% | SSC - 91.6%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements
+
+🥇 AIR 26 - Mathematics in National-Level Science Talent Search Examination (NSTSE)
+🎖️ Medal of Distinction - International Mathematics Olympiad (IMO)
+🥈 AIR 268 - International Olympiad of Mathematics (IOM)
+🏅 AIR 99 - NSTSE Overall
+🎯 AIR 561 - International Olympiad of Science (IOS)
