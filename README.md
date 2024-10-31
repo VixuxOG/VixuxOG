@@ -19,7 +19,7 @@
 -----------------------------------------------------------------------------------
 
 
-🏆 Mathematical Excellence
+🏆 Mathematical Excellence - Junior College
 
 National & International Achievements
 
