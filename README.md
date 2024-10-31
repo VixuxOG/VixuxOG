@@ -1,19 +1,17 @@
-💡 "Data is the new oil, but like oil, it's valuable only when refined properly."
+💭 Quote
 
+"Data is the new oil, but like oil, it's valuable only when refined properly."
 
-##🎓 Academic Background
+🎓 Academic Background
+Bachelor of Engineering
 
--🎯 B.E. in Computer Engineering 
+🎯 Computer Engineering (8.2 CGPA)
+🏅 Honours in Data Science (10 CGPA)
 
--🏅 Honours in Data Science 
+🏆 Mathematical Excellence
+National & International Achievements
 
-
-##🏆 Achievements in Mathematics
-
--🥇 AIR 26 - Mathematics in National-Level Science Talent Search Examination (NSTSE)
-
--🎖️ Medal of Distinction - International Mathematics Olympiad (IMO)
-
--🥈 AIR 268 - International Olympiad of Mathematics (IOM)
-
+🥇 AIR 26 - Mathematics in National-Level Science Talent Search Examination (NSTSE)
+🎖️ Medal of Distinction - International Mathematics Olympiad (IMO)
+🥈 AIR 268 - International Olympiad of Mathematics (IOM)
 
