@@ -3,6 +3,7 @@
 "Data is the new oil, but like oil, it's valuable only when refined properly."
 
 
+------------------------------------------------------------------------------
 
 
 🎓 Academic Background
@@ -14,6 +15,7 @@ Bachelor of Engineering
 🏅 Honours in Data Science (10 CGPA)
 
 
+-----------------------------------------------------------------------------------
 
 
 🏆 Mathematical Excellence
