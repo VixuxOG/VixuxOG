@@ -8,7 +8,7 @@
 
 🎓 Academic Background
 
-Bachelor of Engineering
+   Bachelor of Engineering
 
 🎯 Computer Engineering (8.2 CGPA)
 
