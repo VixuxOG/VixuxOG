@@ -10,7 +10,7 @@
 
    Bachelor of Engineering
 
-🎯 Computer Engineering (8.4 CGPA)
+🎯 Computer Engineering (8.36 CGPA)
 
 🏅 Honours in Data Science (10 CGPA)
 
