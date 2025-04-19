@@ -21,7 +21,7 @@
 
 🏆 Mathematical Excellence 
 
-National & International Achievements
+National Achievements
 
 🥇 AIR 26 - Mathematics in National-Level Science Talent Search Examination (NSTSE)
 
